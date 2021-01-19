@@ -1,0 +1,66 @@
+#title, .subTitle, .postTitle {
+    color: #505050;
+}
+
+#title {
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+a{
+    text-decoration: underline;
+    color: #505050;
+}
+
+.photo {
+    border-radius: 50%;
+    border: 3px solid black;
+}
+
+.postTitle { 
+    font-size: 16px;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 10px;
+}
+
+body {
+    background-color: #fcfcfc;
+    font-family: Verdana, sans-serif;
+    max-width: 1000px;
+    margin: auto;
+}
+
+.post {
+    background-color: #fff;
+    padding: 15px;
+    border: 2px solid #505050;
+    border-radius: 5px;
+}
+
+.postHead{
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+.postBody{
+    margin: 0;
+    margin-top: 15px;
+    text-transform: capitalize;
+    text-align: justify;
+}
+
+.post img{
+    border-radius: 5px;
+    width: 100%;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    padding-left: 15px;
+}
+
+ul a{
+    text-decoration: none;
+}
